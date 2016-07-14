@@ -1,3 +1,4 @@
 {
-  "directory": "source/vendors"
+  "directory": "source/vendors",
+  "timeout": 100000
 }
