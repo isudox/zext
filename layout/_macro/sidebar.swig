@@ -114,7 +114,7 @@
           {% if theme.links %}
             <div class="links-of-blogroll-title">
               <a href="{{ url_for(theme.donors.link) }}">
-                <i class="fa  fa-fw fa-{{ theme.donors.icon | default('globe') | lower }}"></i>
+                <i class="fa fa-fw fa-{{ theme.donors.icon | default('globe') | lower }}"></i>
                 {{ theme.donors.title }}
               </a>
             </div>

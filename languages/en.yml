@@ -13,6 +13,7 @@ menu:
   about: About
   search: Search
   donors: Donors
+  git: Git
 
 sidebar:
   overview: Overview

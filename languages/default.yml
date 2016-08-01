@@ -12,6 +12,7 @@ menu:
   tags: Tags
   about: About
   search: Search
+  git: Git
 
 sidebar:
   overview: Overview

@@ -168,7 +168,7 @@ toc:
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 #creative_commons: by-nc-sa
-creative_commons:
+creative_commons: by-nc-nd
 
 
 sidebar:
@@ -195,13 +195,14 @@ links_icon: bookmark
 links:
   # Git Book: http://git-scm.com/book/
   # Go Doc: https://golang.org/doc/
+  GitLab: https://git.isudox.com
   LeetCode: https://leetcode.com/problemset/algorithms/
-  Java Document: https://docs.oracle.com/javase/8/docs/api/
-  Python Document: https://docs.python.org/3/
+  # Python Document: https://docs.python.org/3/
   # Guava Wiki: https://github.com/google/guava/wiki/
   # Markdown Syntax: https://daringfireball.net/projects/markdown/syntax/
   # JavaScript Garden: https://bonsaiden.github.io/JavaScript-Garden/
   # Django Documentation: https://docs.djangoproject.com/en/1.9/
+
 
 
 # ---------------------------------------------------------------
